@@ -1,0 +1,6 @@
+Book,Micheal Walker,How to Run,111,Turtle Books,Action,true,true,true
+Book,John Green,Looking for Alaska,221,Penguin Books,Romance,true,true,true
+Book,Thief,Stolen Purse,23,Money,Action,true,true,true
+Book,Samantha Wells,The Marrow Thieves,168,Penguin,Horror,true,true,true
+Book,Cash,Wallet,23,Money,Horror,true,true,true
+Book,Apple,Laptop,121,Windows,Fantasy,true,false,false
